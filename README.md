@@ -23,11 +23,11 @@ PHP 8.3 is the latest release of the PHP language, introducing several new featu
 
 ## License
 
-This repository is open-sourced under the [MIT License].
+This repository is open-sourced under the MIT License.
 
 ## Acknowledgements
 
-This repository is maintained by [Your Name]. Thanks to all contributors and the PHP community for their ongoing support and contributions to the PHP language.
+This repository is maintained by Vlad Bobu. Thanks to all contributors and the PHP community for their ongoing support and contributions to the PHP language.
 
 ---
 
